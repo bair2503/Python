@@ -1,4 +1,4 @@
-#!/Users/macbookair/PycharmProjects/ferst_project/mysite/vnv/bin/python
+#!/Users/macbookair/PycharmProjects/my_site/mysite/vnv/bin/python
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
